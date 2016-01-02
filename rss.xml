@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[CwCastle Associates]]></title>
         <description><![CDATA[CwCastle Associates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cwcastle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 00:39:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Jan 2016 03:53:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cwcastle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CwCastle]]></title>
+            <description><![CDATA[<article><h1>CwCastle</h1><p>IT Manage Information Technology</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5465a0a5c6c569acb10dadf583fab357802171c2.png"></article>]]></description>
+            <link>https://thegrid.ai/cwcastle/cwcastle/index.html</link>
+            <guid isPermaLink="false">359544d3-e74d-4e53-8afb-0e9338cc580c</guid>
+            <pubDate>Sat, 02 Jan 2016 03:52:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f55dc390-c9cd-450e-b2df-95210e906ed7.jpg">]]></description>
-            <link>undefined9ad2362d-8795-4e69-bafe-c4c7909c0a1a/index.html</link>
+            <link>https://thegrid.ai/cwcastle/9ad2362d-8795-4e69-bafe-c4c7909c0a1a/index.html</link>
             <guid isPermaLink="false">9ad2362d-8795-4e69-bafe-c4c7909c0a1a</guid>
             <pubDate>Sat, 02 Jan 2016 00:39:11 GMT</pubDate>
         </item>
