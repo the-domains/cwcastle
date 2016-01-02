@@ -1,20 +1,4 @@
-name: CwCastle
-favicon: null
-layout_spectrum: 0.94943
-typography_spectrum: 0.54543
-title: CwCastle Associates
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#71A7FE'
@@ -24,6 +8,11 @@ color:
     - '#CEAFC0'
   brandStrength: 0
   lightness: 0.8125
-  saturation: 0.25
   rhythmicContrast: 0.25
+  saturation: 0.25
+cta: {}
+layout_spectrum: 0.807566
+name: CwCastle
+opengraph: {}
 purpose: []
+typography_spectrum: 0.54543
