@@ -1,6 +1,6 @@
 name: CwCastle
 favicon: null
-layout_spectrum: 0.50463
+layout_spectrum: 1
 typography_spectrum: 0.54543
 title: CwCastle Associates
 cta:
@@ -22,8 +22,8 @@ color:
     - '#37383d'
     - '#3e76c3'
     - '#cc0f34'
-  brandStrength: 1
-  lightness: 1
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
